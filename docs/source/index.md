@@ -17,4 +17,5 @@ QuantLibXlOil is made possible by the [xlOil framework](https://github.com/cunna
 03_api_reference.md
 04_adding_functions.md
 05_contributing.md
+06_coverage_report.md
 ```

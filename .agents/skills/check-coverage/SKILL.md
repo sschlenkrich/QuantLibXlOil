@@ -19,3 +19,5 @@ Read the QuantLibXlOil source code and identify the functions that are exposed t
 Compare the functions exposed to Excel in QuantLibXlOil with the interface specifications from QuantLib-SWIG. Identify any functions that are present in the QuantLib-SWIG interface specifications but are not exposed to Excel in QuantLibXlOil.
 
 List the missing functions and their corresponding QuantLib-SWIG interface specifications.
+
+Write a report to the file `docs/source/06_coverage_report.md`. If the file already exists, overwrite it. If the file does not exist, create a new file and write the report to it.
