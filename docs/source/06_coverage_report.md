@@ -709,6 +709,7 @@ The current coverage of ~30-50% of the QuantLib-SWIG interface is appropriate fo
 ---
 
 *Report generated for QuantLib-SWIG version: v1.41*
-*Analysis date: 2026-06-23*
+*Analysis date: 2026-06-24*
 *Methodology: Pattern-based analysis of SWIG interface files and QuantLibXlOil source code*
 *Coverage estimation: Based on function and class counts across modules*
+*Updated using check-coverage skill with Mistral Vibe*
