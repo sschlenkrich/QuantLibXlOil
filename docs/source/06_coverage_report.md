@@ -1,4 +1,8 @@
-# QuantLibXlOil Coverage Report - QuantLib-SWIG v1.41
+# Coverage Report
+
+Auto-generated coverage report QuantLibXlOil versus QuantLib-SWIG v1.41
+
+Generated with mistral-medium-3.5 and `check-coverage` agents skill.
 
 ## Executive Summary
 
